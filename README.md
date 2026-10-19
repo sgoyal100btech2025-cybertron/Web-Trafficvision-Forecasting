@@ -1,4 +1,4 @@
-# TrafficVision AI 🚀
+##### TrafficVision AI 🚀
 
 AI-powered Website Traffic Forecasting Platform using:
 
@@ -64,3 +64,28 @@ Go to:
 ```bash
 http://127.0.0.1:5000
 ```
+##### 📁 Project Structure
+```text
+Website-Traffic-Forecasting/
+│
+├── models/                  # Trained machine learning models
+│
+├── static/                  # Static files (CSS, JavaScript, uploads)
+│   ├── css/
+│   ├── js/
+│   └── uploads/
+│
+├── templates/               # HTML templates
+│   ├── index.html
+│   ├── dashboard.html
+│   └── other HTML files
+│
+├── app.py                   # Main Flask application
+├── requirements.txt         # Python dependencies
+├── trafficvision.db          # SQLite database
+├── README.md                # Project documentation
+└── .gitignore               # Files excluded from Git
+```
+## 🌐 Live Demo
+
+[🚀 Open Website](https://website-traffic-forecasting.onrender.com)
