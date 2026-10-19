@@ -1,4 +1,4 @@
-##### TrafficVision AI 🚀
+# TrafficVision AI 🚀
 
 AI-powered Website Traffic Forecasting Platform using:
 
@@ -9,7 +9,7 @@ AI-powered Website Traffic Forecasting Platform using:
 - SQLite
 - Bootstrap
 
-## Features 🔮
+# Features 🔮
 
 - AI Traffic Forecasting
 - Random Forest + Linear Regression
