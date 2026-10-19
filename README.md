@@ -35,7 +35,7 @@ git clone https://github.com/YOUR-USERNAME/Website-Traffic-Forecasting.git
 ```bash
 cd Website-Traffic-Forecasting
 ```
-### 4. Create a virtual environment
+### 3. Create a virtual environment
 **Windows:**
 ```bash
 python -m venv venv
