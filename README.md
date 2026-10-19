@@ -28,7 +28,7 @@ AI-powered Website Traffic Forecasting Platform using:
  
 ### 1. Clone the repository
  ```bash
-git clone https://github.com/YOUR-USERNAME/Website-Traffic-Forecasting.git
+git clone https://github.com/sgoyal100btech2025-cybertron/Website-Traffic-Forecasting.git
 ```
 
 #### 2. Open the project
